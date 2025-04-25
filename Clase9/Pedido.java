@@ -18,6 +18,16 @@ public class Pedido {
     }
     
 
+    public Pedido(Cliente cliente1, Producto producto1, Date fecha2, int numeroTarjetaCredito2) {
+        //TODO Auto-generated constructor stub
+    }
+
+
+    public Pedido(Cliente cliente1, Producto producto1, Date fecha2, String string) {
+        //TODO Auto-generated constructor stub
+    }
+
+
     // Metodos
     public Cliente getCliente() {
         return cliente;
