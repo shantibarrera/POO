@@ -107,10 +107,10 @@ class JuegoLucha {
     // Base de datos de personajes (nombre, HP, maxDano, minDano)
     private static final String[][] PERSONAJES = {
             { "Snoop Dogg", "100", "15", "5" },
-            { "Ice-T", "110", "14", "6" },
-            { "Lil' Kim", "90", "18", "8" },
-            { "Sean Paul", "95", "16", "7" },
-            { "Bubba Sparxxx", "120", "12", "4" }
+            { "Ice-T", "100", "14", "6" },
+            { "Lil' Kim", "100", "18", "8" },
+            { "Sean Paul", "100", "16", "7" },
+            { "Bubba Sparxxx", "100", "12", "4" }
     };
 
     // Base de datos de armas (nombre, bonus de daño)
